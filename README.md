@@ -1,4 +1,4 @@
-# Courses_Data_Analyst_with_Python
+# Data Analyst with Python
 
 Data Analyst with Python course by DataCamp
 
